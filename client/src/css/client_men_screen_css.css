@@ -1,0 +1,11 @@
+.men-main-container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+.men-side-nav-space{
+    width: 15vw;
+}
+.men-use-space{
+    width: 85vw;
+}
